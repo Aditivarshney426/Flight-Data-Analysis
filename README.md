@@ -51,4 +51,4 @@ The dataset includes:
 
 ## 📁 Files Included
 - flight analysis.pbix → Power BI dashboard file
--![(Dashboard](dashboard.png)
+-![(Dashboard](Dashboard.png)
